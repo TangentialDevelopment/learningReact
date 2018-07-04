@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 
 const rootElement = document.getElementById('root')
-//lesson 1
+
 // const element = document.createElement('div')
 // element.textContent = 'hello world'
 // element.className = 'container'
